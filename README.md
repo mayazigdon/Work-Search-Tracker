@@ -32,6 +32,7 @@ This project is a Node.js utility that connects to your Gmail account via the Gm
 
 ```bash
 npm install
+
 ### 4. Run the Server
 node server.js
 **Then open http://localhost:3001 in your browser to view the filtered emails.**
